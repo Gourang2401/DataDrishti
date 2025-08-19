@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+pandera
+pyod
+jinja2
+plotly
+streamlit
+ydata-profiling
+openpyxl
+xhtml2pdf
+chardet
